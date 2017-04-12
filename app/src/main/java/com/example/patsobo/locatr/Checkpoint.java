@@ -7,6 +7,9 @@ import java.util.UUID;
  * Created by patsobo on 4/9/2017.
  */
 
+/**
+ * Class that represents a checkpoint in the database
+ */
 public class Checkpoint {
 
     private UUID mId;

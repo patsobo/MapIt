@@ -22,6 +22,9 @@ import java.util.UUID;
  * Created by patsobo on 4/10/2017.
  */
 
+/**
+ * A class for interacting with the database and manipulating all the checkpoints.
+ */
 public class CheckpointJourney {
     private static CheckpointJourney sCheckpointJourney;
 

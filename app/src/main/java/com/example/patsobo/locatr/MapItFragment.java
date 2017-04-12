@@ -132,6 +132,12 @@ public class MapItFragment extends SupportMapFragment {
         mClient.disconnect();
     }
 
+
+    /**
+     * 
+     * @param menu
+     * @param inflater
+     */
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
