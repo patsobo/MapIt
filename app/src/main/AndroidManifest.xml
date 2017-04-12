@@ -20,7 +20,8 @@
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyAOBkw2EIdYbzLwtSKxc432zYWWRBF9vg0"/>
-        <activity android:name=".MapItActivity">
+        <activity android:name=".MapItActivity"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

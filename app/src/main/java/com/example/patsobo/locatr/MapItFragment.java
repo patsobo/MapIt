@@ -254,6 +254,9 @@ public class MapItFragment extends SupportMapFragment {
         }
     }
 
+    /**
+     * Asynchrounous task that searches and gets current location
+     */
     private class SearchTask extends AsyncTask<Location,Void,Void> {
         private WeatherItem mWeatherItem;
         private Location mLocation;
