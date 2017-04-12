@@ -134,7 +134,7 @@ public class MapItFragment extends SupportMapFragment {
 
 
     /**
-     * 
+     *
      * @param menu
      * @param inflater
      */
